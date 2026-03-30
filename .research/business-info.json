@@ -1,0 +1,20 @@
+{
+  "businessName": "Tr Singo Electrical",
+  "category": "electrical",
+  "brandColors": {
+    "primary": "#1ABC9C",
+    "secondary": "#48C9B0",
+    "accent": "#F39C12",
+    "dark": "#17A589",
+    "light": "#E8F8F5"
+  },
+  "tagline": "Safe & Reliable",
+  "services": [
+    "Emergency Repairs",
+    "Installations",
+    "Fault Finding",
+    "Maintenance",
+    "Rewiring",
+    "Safety Inspections"
+  ]
+}
